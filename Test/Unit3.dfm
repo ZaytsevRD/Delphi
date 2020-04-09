@@ -26,6 +26,13 @@ object Form3: TForm3
     Font.Style = [fsBold]
     ParentFont = False
   end
+  object Label2: TLabel
+    Left = 680
+    Top = 104
+    Width = 46
+    Height = 19
+    Caption = 'Label2'
+  end
   object Button1: TButton
     Left = 424
     Top = 152

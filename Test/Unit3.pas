@@ -10,6 +10,7 @@ type
   TForm3 = class(TForm)
     Label1: TLabel;
     Button1: TButton;
+    Label2: TLabel;
     procedure Button1Click(Sender: TObject);
   private
     { Private declarations }
@@ -28,6 +29,7 @@ procedure TForm3.Button1Click(Sender: TObject);
 begin
    Form3.Caption:='URAAA!!!';
    Label1.Caption:='URAAA!!!';
+   Label2.Caption:='URAAA!!!';
 
 end;
 
