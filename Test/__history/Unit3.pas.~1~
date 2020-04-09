@@ -28,7 +28,6 @@ procedure TForm3.Button1Click(Sender: TObject);
 begin
    Form3.Caption:='URAAA!!!';
    Label1.Caption:='URAAA!!!';
-   //test
 end;
 
 end.

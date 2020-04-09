@@ -16,8 +16,8 @@ object Form3: TForm3
   object Label1: TLabel
     Left = 360
     Top = 32
-    Width = 65
-    Height = 41
+    Width = 31
+    Height = 13
     Caption = 'Label1'
   end
   object Button1: TButton
