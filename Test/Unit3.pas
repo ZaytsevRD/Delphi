@@ -30,7 +30,7 @@ begin
    Form3.Caption:='URAAA!!!';
    Label1.Caption:='URAAA!!!';
    Label2.Caption:='URAAA!!!';
-
+     //test
 end;
 
 end.
